@@ -4,11 +4,16 @@ This project is designed to use artificial intelligence (AI) for picking items f
 
 #### Requirements
 - NodeJS
+- Python 3
 - Install [Appium](https://www.npmjs.com/package/appium) in gloabl directory using npm
 - Next install the [test-ai-classifier](https://www.npmjs.com/package/test-ai-classifier) using npm in directory where appium is installed
 - Start Appium Server
 - Start Android Virtual Device
 
+#### Test 
+- Install the both android apps in the android device
+- For testing 2nd app, App package and App activity name need to be changed
+- Using Python Run the script
 
 
 
